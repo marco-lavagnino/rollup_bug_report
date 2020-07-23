@@ -1,0 +1,10 @@
+{
+    "scripts": {
+        "build": "rollup -c",
+        "watch": "rollup -c -w"
+    },
+    "dependencies": {
+        "rollup": "^2.22.2",
+        "rollup-plugin-chrome-extension": "^3.2.0"
+    }
+}
